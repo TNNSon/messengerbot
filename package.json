@@ -1,0 +1,26 @@
+{
+  "name": "messengerbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start" :"node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TNNSon/messengerbot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TNNSon/messengerbot/issues"
+  },
+  "homepage": "https://github.com/TNNSon/messengerbot#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "morgan": "^1.8.2",
+    "request": "^2.81.0"
+  }
+}
